@@ -9,7 +9,7 @@ This repository contains a list of the most popular and widely used tools in web
 
 *If you find any tools missing, you can create a pull request and be a contribute the project.*
 
-![](https://raw.githubusercontent.com/Quillhash/Web3-Security-Tools/main/data/Web3_Security%20Tools.png)
+<img src="https://raw.githubusercontent.com/Quillhash/Web3-Security-Tools/main/data/Web3_Security%20Tools.png" >
 
 Pdf Link: [Web3 Security Tools.pdf](data/Web3_Security%20Tools.pdf)
 
