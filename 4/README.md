@@ -9,9 +9,9 @@ technique. Works in Node.js and web browsers.
 
 ## Installation
 
-```bash
+~~~bash
 $ npm install debug
-```
+~~~
 
 ## Usage
 
