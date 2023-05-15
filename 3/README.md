@@ -2,12 +2,12 @@ To create a React app, you can use the `create-react-app` command-line tool. Her
 ```bash 
 npm install -g create-react-app 
 ```
-3. Create a new React app: Choose a directory where you want to create your app and navigate to that directory using the terminal. Then, run the following command: 
+Create a new React app: Choose a directory where you want to create your app and navigate to that directory using the terminal. Then, run the following command: 
 ```bash 
 npx create-react-app my-app 
 ```
 Replace `my-app` with the name you want to give to your app. This command will create a new directory called `my-app`. Inside this directory, you'll find the basic structure of a React app. 
-4. Run your React app: Navigate to the `my-app` directory and run the following command: 
+Run your React app: Navigate to the `my-app` directory and run the following command: 
 ```bash
 npm start 
 ```
